@@ -1,7 +1,9 @@
 {
-  "url": "https://ton-game-box-og-peach.vercel.app",
-  "name": "TON GameBox MiniApp",
-  "iconUrl": "https://raw.githubusercontent.com/tonkeeper/icons/main/tonconnect-icon.png",
-  "termsOfUseUrl": "https://t.me/TonGameBox_Bot",
-  "privacyPolicyUrl": "https://t.me/TonGameBox_Bot"
+  "manifest_version": "0.1.0",
+  "name": "TON GameBox",
+  "description": "Earn TON by playing and inviting friends",
+  "icons": ["https://ton.org/favicon.png"],
+  "url": "https://your-vercel-url.vercel.app", 
+  "terms_of_use_url": "https://t.me/TonGameBoxofficial",
+  "privacy_policy_url": "https://t.me/TonGameBoxofficial"
 }

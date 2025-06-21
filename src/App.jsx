@@ -1,9 +1,11 @@
 import React from "react";
 import HomeScreen from "./components/HomeScreen";
+import WalletConnect from "./components/WalletConnect";
 
 export default function App() {
   return (
-    <div className="bg-gray-100 min-h-screen">
+    <div>
+      <WalletConnect />
       <HomeScreen />
     </div>
   );
